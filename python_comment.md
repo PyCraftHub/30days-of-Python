@@ -1,4 +1,4 @@
-# Python Syntax Unveiled! 🕵️‍♂️
+# Python Comment Unveiled! 🕵️‍♂️
 
 ## Day 2 of 30 Days Python Course by PyCraftHub
 
